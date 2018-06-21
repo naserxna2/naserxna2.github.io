@@ -431,7 +431,7 @@ $s1="420718149:AAGoHj5OFs95R8vtVQRn5FbaxDPbfuEfqws";
 $up1=json_decode($d3,true);
 
 $p="image/test.jpg";
-$p2="https://naserxna2.github.io/index.php";
+$p2="https://naserxna2.github.io/";
 
 $chat_id="140277419";
 $u1=$up1['name'];
